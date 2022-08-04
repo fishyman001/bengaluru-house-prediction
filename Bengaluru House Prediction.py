@@ -702,4 +702,3 @@ np.sqrt(mean_squared_error(Y_test,xgbr.predict(X_test)))
 
 
 # As you can see XGboost is giving better score and rmse than Random Forest Regressor
-# 
