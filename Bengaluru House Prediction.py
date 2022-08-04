@@ -699,10 +699,3 @@ np.sqrt(mean_squared_error(Y_test,rfr.predict(X_test)))
 
 
 np.sqrt(mean_squared_error(Y_test,xgbr.predict(X_test)))
-
-
-# In[ ]:
-
-
-
-
